@@ -1,1 +1,1 @@
-# SPDSamarakkodi-Secure-MySQL-Database-Infrastructure
+# Secure MySQL Database Infrastructure
